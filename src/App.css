@@ -1,0 +1,17 @@
+:root {
+    --Primary: #333333;
+    --Accent: #FF8C00;
+    --Background: #F5F5DC;
+    --Highlight: #8FBC8F;
+    --green: #4CAF50;
+    --h1: "Grandstander", cursive;
+    --h2: "Cinzel", serif;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Quicksand", sans-serif;
+    /* h1 font-family: "Grandstander", cursive; */
+}

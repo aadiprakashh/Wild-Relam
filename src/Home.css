@@ -1,0 +1,107 @@
+:root {
+    --Primary: #333333;
+    --Accent: #FF8C00;
+    --Background: #F5F5DC;
+    --Highlight: #8FBC8F;
+    --green: #4CAF50;
+    --h1: "Grandstander", cursive;
+    --h2: "Cinzel", serif;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Quicksand", sans-serif;
+    /* h1 font-family: "Grandstander", cursive; */
+}
+
+.hero {
+    background: linear-gradient(to right, #000 0%, transparent), url(./assets/image/tiger.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100dvh;
+    display: flex;
+    align-items: center;
+}
+
+.hero h1 {
+    color: var(--Background);
+    font-weight: 900;
+    font-size: 4em;
+    font-family: var(--h1);
+}
+
+.hero h4 {
+    color: var(--Highlight);
+    /* font-family: "Noto Sans", sans-serif; */
+    /* font-family: "Matemasie", sans-serif; */
+    font-weight: 900;
+}
+
+.hero p {
+    color: #d3d3d3;
+}
+
+.hero button {
+    padding: 15px;
+    border-radius: 10px;
+    border: none;
+    background-color: var(--Accent);
+    color: var(--Background);
+    font-weight: 700;
+}
+
+.aim {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.card {
+    background: transparent;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    padding: 15px;
+    border: none;
+    box-shadow: 1px 1px 10px #33333340;
+    text-align: center;
+    border-radius: 20px;
+}
+
+.card img {
+    max-width: 100%;
+    height: auto;
+}
+
+.card h4 {
+    color: #FF8C00;
+    font-weight: 900;
+}
+
+.card p {
+    color: var(--Primary);
+}
+
+.carousel-item {
+    height: 600px;
+    overflow: hidden;
+}
+
+.carousel-item img {
+    height: 600px;
+    width: 100%;
+    object-fit: cover;
+    display: flex;
+
+}
+.gallery img{
+    border-radius: 10px;
+    background-color: #333;
+}

@@ -1,0 +1,55 @@
+/* src/components/BentoGridGallery.css */
+:root {
+    --Primary: #333333;
+    --Accent: #FF8C00;
+    --Background: #F5F5DC;
+    --Highlight: #8FBC8F;
+    --green: #4CAF50;
+    --h1: "Grandstander", cursive;
+    --h2: "Cinzel", serif;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Quicksand", sans-serif;
+    /* h1 font-family: "Grandstander", cursive; */
+}
+.gallery-section{
+    background: url(./assets/image/gallery.jpg);
+    width: 100%;
+    height: 50dvh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bento-grid {
+    display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        justify-content: center;
+}
+
+.bento-item {
+    /* Adjust percentage for more or fewer items per row */
+    position: relative;
+    overflow: hidden;
+}
+
+.bento-item img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.bento-title {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background: rgba(0, 0, 0, 0.5);
+    color: white;
+    padding: 10px 0;
+    font-size: 1.2em;
+}
