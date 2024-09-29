@@ -84,7 +84,7 @@ export default function Home() {
                 <p>
                   Some representative placeholder content for the first slide.
                 </p>
-                <a href="#" className="btn btn-warning">
+                <a role="button" href="#new" className="btn btn-warning">
                   Learn More
                 </a>
               </div>
@@ -96,7 +96,7 @@ export default function Home() {
                 <p>
                   Some representative placeholder content for the second slide.
                 </p>
-                <a href="#" className="btn btn-warning">
+                <a href="#new" className="btn btn-warning">
                   Learn More
                 </a>
               </div>
@@ -108,7 +108,7 @@ export default function Home() {
                 <p>
                   Some representative placeholder content for the third slide.
                 </p>
-                <a href="#" className="btn btn-warning">
+                <a href="#new" className="btn btn-warning">
                   Learn More
                 </a>
               </div>
