@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Wild-Relam/static/css/main.28d30c2a.css",
-    "main.js": "/Wild-Relam/static/js/main.ddefca6c.js",
+    "main.css": "/Wild-Relam/static/css/main.03818d9a.css",
+    "main.js": "/Wild-Relam/static/js/main.c11715c5.js",
     "static/js/453.7f13a5dd.chunk.js": "/Wild-Relam/static/js/453.7f13a5dd.chunk.js",
     "static/media/lion-g.jpg": "/Wild-Relam/static/media/lion-g.a1c649bc82004d0a2315.jpg",
     "static/media/tiger.jpg": "/Wild-Relam/static/media/tiger.b93c0f71fcec62639543.jpg",
@@ -54,12 +54,12 @@
     "static/media/hilsa.jpg": "/Wild-Relam/static/media/hilsa.b086fa4d946210b4a3c1.jpg",
     "static/media/rohu.jpg": "/Wild-Relam/static/media/rohu.fddbe5c248be081686fd.jpg",
     "index.html": "/Wild-Relam/index.html",
-    "main.28d30c2a.css.map": "/Wild-Relam/static/css/main.28d30c2a.css.map",
-    "main.ddefca6c.js.map": "/Wild-Relam/static/js/main.ddefca6c.js.map",
+    "main.03818d9a.css.map": "/Wild-Relam/static/css/main.03818d9a.css.map",
+    "main.c11715c5.js.map": "/Wild-Relam/static/js/main.c11715c5.js.map",
     "453.7f13a5dd.chunk.js.map": "/Wild-Relam/static/js/453.7f13a5dd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.28d30c2a.css",
-    "static/js/main.ddefca6c.js"
+    "static/css/main.03818d9a.css",
+    "static/js/main.c11715c5.js"
   ]
 }
