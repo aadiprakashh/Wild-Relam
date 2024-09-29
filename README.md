@@ -1,6 +1,6 @@
 # India’s Wild Realm 🌿🦁
 
-**Website URL:** [Insert your website link here]
+**Website URL:** https://aadiprakashh.github.io/Wild-Relam/
 
 ---
 
