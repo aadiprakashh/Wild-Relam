@@ -54,6 +54,8 @@ To run the app locally, follow these steps:
    npm start
 5. **Open in Browser**: Visit http://localhost:3000 to view the app in your browser.
 
+---
+
 ## Contributing
 
 Contributions are welcome! If you have suggestions for improvements or features, feel free to open an issue or submit a pull request.
@@ -82,8 +84,9 @@ Contributions are welcome! If you have suggestions for improvements or features,
    git push origin feature/YourFeatureName
 9. **Open Pull Request.**
     Go to the original repository on GitHub and click on the New Pull Request button. Select your branch and provide a clear description of the changes you made.
+    Once your pull request is reviewed and approved, it will be merged into the main repository.
 
-Once your pull request is reviewed and approved, it will be merged into the main repository.
+---
 
 Join us on a journey to discover and protect India’s wildlife through India’s Wild Realm!
 
